@@ -21,7 +21,7 @@ Yan menüden "Randevular" (Appointments) sekmesine geçiş yapın. Bu ekran hast
 - Poliklinik Randevusu: Önceden randevu almış veya o an muayene olmak isteyen hastayı seçin. İlgili branşı ve poliklinik doktorunu listeden işaretleyin. Tarih ve saat bilgilerini girerek randevuyu oluşturun.
 - Acil Servis Girişi: Acil servisten giriş yapan hastalar için doğrudan "Acil Doktoru"nu seçerek "Acil Sırası" verebilirsiniz. Bu işlem anında ilgili acil doktorunun ekranına bildirim olarak düşer.
 - Durum Takibi: Randevu tablosunda her randevunun bir "Muayene Durumu" (Bekliyor / Tamamlandı) ve "Ödeme Durumu" (Bekliyor / Ödendi) bulunur. Vezne işlemleri tamamlandığında buradan ödeme durumunu güncelleyebilirsiniz.
-![Sekreter Ana Ekranı](./docs/sekreter-paneli.png)
+![Sekreter Ana Ekranı](./docs/sekreter.jpg)
 
 ---
 
